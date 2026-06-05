@@ -97,9 +97,10 @@ while True:
     print("3. Search student")
     print("4. Update student")
     print("5. Delete student")
+    print("6. Exit")
 
     try:
-        choice = int(input("Enter choice(1-6)"))
+        choice = int(input("Enter choice(1-6): "))
 
         if choice == 1:
             manager.add_student()
