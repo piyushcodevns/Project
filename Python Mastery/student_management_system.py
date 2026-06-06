@@ -84,7 +84,7 @@ class StudentManagement:
                     f.writelines(updated_line)
                 print("Student data deleted")
             else:
-                print("Student not found")
+                print("Student not found") 
         except FileNotFoundError:
             print("File does not exist")
 
