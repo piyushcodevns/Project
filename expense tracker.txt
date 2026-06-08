@@ -1,0 +1,2 @@
+Expense name: Travel | Expense: 700
+Expense name: Roti | Expense: 100
